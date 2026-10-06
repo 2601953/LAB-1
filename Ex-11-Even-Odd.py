@@ -1,3 +1,5 @@
+# This code is also available at https://github.com/2601953/LAB-1
+
 # Returns bools
 def isOdd(number):
     return number % 2 != 0
